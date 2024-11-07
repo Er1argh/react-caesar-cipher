@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-caesar-cipher/static/js/main.f7cff810.js",
+    "index.html": "/react-caesar-cipher/index.html",
+    "main.f7cff810.js.map": "/react-caesar-cipher/static/js/main.f7cff810.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f7cff810.js"
+  ]
+}
